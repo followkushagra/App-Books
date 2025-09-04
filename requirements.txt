@@ -1,0 +1,8 @@
+kivy
+kivymd
+pymupdf
+ebooklib
+pyttsx3
+plyer
+Pillow
+kivy_garden.cefpython
